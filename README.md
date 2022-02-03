@@ -13,45 +13,25 @@ console.log(greet + "World")
 #
 
 <img width="28" src="./media/vscode.png" alt="vs code">
-&nbsp;
 <img width="28" src="./media/git.png" alt="git technology">
-&nbsp;
 <img width="28" src="./media/html5.png" alt="html 5">
-&nbsp;
 <img width="28" src="./media/bootstrap.png" alt="bootstrap">
-&nbsp;
 <img width="28" src="./media/javascript.png" alt="javascript">
-&nbsp;
 <img width="28" src="./media/css3.png" alt="css 3">
-&nbsp;
 <img width="28" src="./media/sass.png" alt="sass">
-&nbsp;
 <img width="28" src="./media/jquery.png" alt="jquery">
-&nbsp;
 <img width="28" src="./media/react.png" alt="react">
-&nbsp;
 <img width="28" src="./media/nodejs.png" alt="node js">
-&nbsp;
 <img width="28" src="./media/npm.png" alt="node package manager">
-&nbsp;
 <img width="28" src="./media/handlebars.png" alt="handlebars js">
-&nbsp;
 <img width="28" src="./media/jest.png" alt="jest">
-&nbsp;
 <img width="28" src="./media/mysql.png" alt="mysql">
-&nbsp;
 <img width="28" src="./media/mongodb.png" alt="mongo db">
-&nbsp;
 <img width="28" src="./media/sequelize.png" alt="sequelize orm">
-&nbsp;
 <img width="28" src="./media/oracle.png" alt="oracle cloud">
-&nbsp;
 <img width="28" src="./media/docker.png" alt="docker">
-&nbsp;
 <img width="28" src="./media/ec2.png" alt="aws ec2">
-&nbsp;
 <img width="28" src="./media/cloudflare.png" alt="cloudflare">
-&nbsp;
 <img width="28" src="./media/bash.png" alt="bash">
 
 #
