@@ -12,27 +12,29 @@ console.log(greet + "World")
 ### Web Technologies & Tools
 #
 
-<img width="28" src="./media/vscode.png" alt="vs code">
-<img width="28" src="./media/git.png" alt="git technology">
-<img width="28" src="./media/html5.png" alt="html 5">
-<img width="28" src="./media/bootstrap.png" alt="bootstrap">
-<img width="28" src="./media/javascript.png" alt="javascript">
-<img width="28" src="./media/css3.png" alt="css 3">
-<img width="28" src="./media/sass.png" alt="sass">
-<img width="28" src="./media/jquery.png" alt="jquery">
-<img width="28" src="./media/react.png" alt="react">
-<img width="28" src="./media/nodejs.png" alt="node js">
-<img width="28" src="./media/npm.png" alt="node package manager">
-<img width="28" src="./media/handlebars.png" alt="handlebars js">
-<img width="28" src="./media/jest.png" alt="jest">
-<img width="28" src="./media/mysql.png" alt="mysql">
-<img width="28" src="./media/mongodb.png" alt="mongo db">
-<img width="28" src="./media/sequelize.png" alt="sequelize orm">
-<img width="28" src="./media/oracle.png" alt="oracle cloud">
-<img width="28" src="./media/docker.png" alt="docker">
-<img width="28" src="./media/ec2.png" alt="aws ec2">
-<img width="28" src="./media/cloudflare.png" alt="cloudflare">
-<img width="28" src="./media/bash.png" alt="bash">
+<p float="left">
+    <img width="28" src="./media/vscode.png" alt="vs code">
+    <img width="28" src="./media/git.png" alt="git technology">
+    <img width="28" src="./media/html5.png" alt="html 5">
+    <img width="28" src="./media/bootstrap.png" alt="bootstrap">
+    <img width="28" src="./media/javascript.png" alt="javascript">
+    <img width="28" src="./media/css3.png" alt="css 3">
+    <img width="28" src="./media/sass.png" alt="sass">
+    <img width="28" src="./media/jquery.png" alt="jquery">
+    <img width="28" src="./media/react.png" alt="react">
+    <img width="28" src="./media/nodejs.png" alt="node js">
+    <img width="28" src="./media/npm.png" alt="node package manager">
+    <img width="28" src="./media/handlebars.png" alt="handlebars js">
+    <img width="28" src="./media/jest.png" alt="jest">
+    <img width="28" src="./media/mysql.png" alt="mysql">
+    <img width="28" src="./media/mongodb.png" alt="mongo db">
+    <img width="28" src="./media/sequelize.png" alt="sequelize orm">
+    <img width="28" src="./media/oracle.png" alt="oracle cloud">
+    <img width="28" src="./media/docker.png" alt="docker">
+    <img width="28" src="./media/ec2.png" alt="aws ec2">
+    <img width="28" src="./media/cloudflare.png" alt="cloudflare">
+    <img width="28" src="./media/bash.png" alt="bash">
+</p>
 
 #
 
