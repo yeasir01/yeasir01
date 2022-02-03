@@ -36,4 +36,8 @@ console.log(greet + "World")
     <img width="40" src="./media/bash.png" alt="bash">
 </p>
 
+<<<<<<< HEAD
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeasir01&theme=dark)](https://github.com/yeasir01)
+=======
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeasir01&theme=dark)](https://github.com/yeasir01)
+>>>>>>> 0ae69c59227b980e6048cfef2919650b3ba76515
