@@ -1,4 +1,4 @@
-### Hi there! <img src="./media/wave.webp" width="18" alt="wave">
+## Hi there! <img src="./media/wave.webp" width="18" alt="wave">
 
 I'm [Yeasir `[ya·sir]`](https://www.yeasirhugais.com). I'm a freelance Web Developer based out of California. In my spare time, I like to challenge myself to learn new things, _(normally, I spend about 1-3 hours before or after work building & learning new ways to write efficient algorithms)_. Most of my projects below 👇🏻 are focused on two things -  **to help me become a better software developer** & **share my newfound knowledge with the dev community** 📚. Feel free to explore my repo & use any of my public projects to learn more about _algorithms in JavaScript_.
 
