@@ -9,8 +9,8 @@ console.log(greet + "World")
 //output: Hello World
 ```
 
-## Web Technologies & Tools:
----
+## Web Technologies & Tools
+
 [<img width="35" vspace="10" hspace="10" src="./media/vscode.png" alt="vs code" />](https://code.visualstudio.com/)
 [<img width="35" vspace="10" hspace="10" src="./media/git.png" alt="git technology" />](https://git-scm.com/)
 [<img width="35" vspace="10" hspace="10" src="./media/html5.png" alt="html 5" />](https://github.com/yeasir01)
