@@ -37,8 +37,8 @@ console.log(greet + "World")
 [<img width="35" vspace="10" hspace="10" src="./media/postman.png" alt="postman" />](https://www.postman.com/)
 
 <a href="https://github.com/yeasir01">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeasir01&theme=dark&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeasir01&theme=transparent&include_all_commits=true" />
 </a>
 <a href="https://github.com/yeasir01">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasir01&theme=dark&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasir01&theme=transparent&layout=compact" />
 </a>
