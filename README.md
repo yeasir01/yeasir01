@@ -36,6 +36,8 @@ console.log(greet + "World")
 [<img width="35" vspace="10" hspace="10" src="./media/nginx.png" alt="nginx" />](https://www.nginx.com/)
 [<img width="35" vspace="10" hspace="10" src="./media/postman.png" alt="postman" />](https://www.postman.com/)
 
+<br />
+
 | <a href="https://github.com/yeasir01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasir01&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Yeasir's github stats" /></a> | <a href="https://github.com/yeasir01/github-readme-stats"><img height=197 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasir01&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
