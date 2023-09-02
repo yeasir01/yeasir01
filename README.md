@@ -38,7 +38,7 @@ console.log(greet + "World")
 
 <br />
 
-| <a href="https://github.com/yeasir01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasir01&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Yeasir's github stats" /></a> | <a href="https://github.com/yeasir01/github-readme-stats"><img height=197 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasir01&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/yeasir01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasir01&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="Yeasir's github stats" /></a> | <a href="https://github.com/yeasir01"><img height=197 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasir01&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- <a href="https://github.com/yeasir01">
